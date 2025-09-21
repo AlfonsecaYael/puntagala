@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/puntagala/static/css/main.2b76350e.css",
+    "main.js": "/puntagala/static/js/main.0f24e9f5.js",
+    "index.html": "/puntagala/index.html",
+    "main.2b76350e.css.map": "/puntagala/static/css/main.2b76350e.css.map",
+    "main.0f24e9f5.js.map": "/puntagala/static/js/main.0f24e9f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b76350e.css",
+    "static/js/main.0f24e9f5.js"
+  ]
+}
